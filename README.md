@@ -1,2 +1,2 @@
 # hello-world
-number one
+getting started
